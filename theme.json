@@ -237,7 +237,8 @@
 			},
 			"heading": {
 				"typography": {
-					"fontFamily": "var:preset|font-family|inter"
+					"fontFamily": "var:preset|font-family|inter",
+					"lineHeight": "1.5"
 				}
 			},
 			"link": {
