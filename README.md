@@ -1,2 +1,4 @@
 # nocode-gen
-A personal experience on building a WordPress block theme without coding, as part of the FSE Program Exploration. 
+A personal experience on building a WordPress block theme without coding, as part of the FSE Program Exploration. https://make.wordpress.org/test/2023/03/29/fse-program-exploration-build-a-block-theme/
+
+See the resulted live site at https://bbt.dwrf.my.id
