@@ -95,7 +95,7 @@
 				}
 			]
 		},
-		"useRootPaddingAwareAlignments": false
+		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
 		"blocks": {
